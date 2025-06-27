@@ -23,3 +23,8 @@ This project is a **modular fraud detection platform** that uses:
 - Modular pipeline for drift detection and re-training
 - API endpoints for inserting transactions and getting predictions
 
+## 👨‍💻 Authors
+
+Built with ❤️ by [SuperML.dev](https://superml.dev)
+
+---
