@@ -33,6 +33,6 @@ This project is a **modular fraud detection platform** that uses:
 
 ## 👨‍💻 Authors
 
-Built with ❤️ by [SuperML.dev](https://superml.dev)
+Built with ❤️ by [crazyaiml](https://github.com/crazyaiml/) @ [SuperML.dev](https://superml.dev)
 
 ---
