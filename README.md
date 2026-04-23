@@ -3,6 +3,14 @@ This repo is developed and maintained for education purpose to learn Agentic AI 
 
 We introduce our first project with Agentic AI, available to learn Fraud Detection in Card data Authorization.
 
+# SMART-SDLC
+Available at https://github.com/superMLdev/smart-sdlc
+Smart-SDLC uses role-aware AI execution, where each persona operates within explicit delivery boundaries, owns specific artifacts, and hands work forward through governed transitions.
+
+# NL-2-SQL
+Available at https://github.com/crazyaiml/nl-2-sql-agent
+A guarded NL-to-SQL reasoning agent that learns schema and domain context, then answers analytical questions using iterative, evidence-backed SQL.
+
 # ANTI-FRAUD
 Available at https://github.com/superMLdev/anti-fraud
 Its a public repo for learning purpose only. 
